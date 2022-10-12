@@ -62,10 +62,10 @@ apis (
   <a href="https://github.com/josantonius/php-session">
     <img width="412.5" src="https://github-readme-stats.vercel.app/api/pin?username=josantonius&repo=php-session&theme=tokyonight&hide_border=true">
   </a>
-  <a href="https://github.com/josantonius/php-cookie">
+  <a href="https://github.com/josantonius/php-hook">
     <img width="412.5" src="https://github-readme-stats.vercel.app/api/pin?username=josantonius&repo=php-hook&theme=tokyonight&hide_border=true">
   </a>
-  <a href="https://github.com/josantonius/">
+  <a href="https://github.com/josantonius/php-cookie">
     <img width="412.5" src="https://github-readme-stats.vercel.app/api/pin?username=josantonius&repo=php-cookie&theme=tokyonight&hide_border=true">
   </a>
   <a href="https://github.com/josantonius/php-url">
@@ -124,8 +124,8 @@ apis (
 <div align="center" name="contact">
   <a href="https://discord.gg/BvEk3PAy" target="_blank"><img src="https://img.shields.io/badge/-Discord-21262d?style=for-the-badge&logo=discsord&logoColor=c9d1d9" target="_blank"></a>
  <a href="https://t.me/Josantonius" target="_blank"><img src="https://img.shields.io/badge/-Telegram-21262d?style=for-the-badge&logo=telesgram&logoColor=c9d1d9" target="_blank"></a>
-  <a href = ""><img src="https://img.shields.io/badge/-Twitter-21262d?style=for-the-badge&logo=xxx&logoColor=c9d1d9" target="_blank"></a>
-  <a href="" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-21262d?style=for-the-badge&logo=xxx&logoColor=c9d1d9" target="_blank"></a><br/>
+  <a href = "https://github.com/josantonius"><img src="https://img.shields.io/badge/-Twitter-21262d?style=for-the-badge&logo=xxx&logoColor=c9d1d9" target="_blank"></a>
+  <a href="https://github.com/josantonius" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-21262d?style=for-the-badge&logo=xxx&logoColor=c9d1d9" target="_blank"></a><br/>
 
 ###### Last edited on: 12/10/2022
 
