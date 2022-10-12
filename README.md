@@ -99,32 +99,32 @@ apis (
 
 <details name="contact">
   <summary>Sponsorships and Donations</summary><br/>
-  <a href = "https://paypal.me/Josantonius"><img src="https://img.shields.io/badge/-Paypal-21262d?style=for-the-badge&logo=xxx&logoColor=c9d1d9" target="_blank"></a>
-  <a href = "https://www.buymeacoffee.com/josantonius"><img src="https://img.shields.io/badge/-Buy_me_a_coffee-21262d?style=for-the-badge&logo=xxx&logoColor=c9d1d9" target="_blank"></a>
-  <a href="https://github.com/sponsors/josantonius" target="_blank"><img src="https://img.shields.io/badge/-GitHub Sponsor-21262d?style=for-the-badge&logo=xxx&logoColor=c9d1d9" target="_blank"></a><br/><br/>
+  <a href = "https://paypal.me/Josantonius"><img src="https://img.shields.io/badge/-Paypal-727272?style=for-the-badge&logo=xxx&logoColor=9e9e9e" target="_blank"></a>
+  <a href = "https://www.buymeacoffee.com/josantonius"><img src="https://img.shields.io/badge/-Buy_me_a_coffee-727272?style=for-the-badge&logo=xxx&logoColor=9e9e9e" target="_blank"></a>
+  <a href="https://github.com/sponsors/josantonius" target="_blank"><img src="https://img.shields.io/badge/-GitHub Sponsor-727272?style=for-the-badge&logo=xxx&logoColor=9e9e9e" target="_blank"></a><br/><br/>
 
-  <img src="https://img.shields.io/badge/-Bitcoin-21262d?style=for-the-badge&logo=xxx&logoColor=c9d1d9" target="_blank">
+  <img src="https://img.shields.io/badge/-Bitcoin-727272?style=for-the-badge&logo=xxx&logoColor=9e9e9e" target="_blank">
 
   ```
   3A32XuiuxNK4zz2nh1TkbGQd2LKUfGzjTu
   ```
 
-  <img src="https://img.shields.io/badge/-Ethereum-21262d?style=for-the-badge&logo=xxx&logoColor=c9d1d9" target="_blank">
+  <img src="https://img.shields.io/badge/-Ethereum-727272?style=for-the-badge&logo=xxx&logoColor=9e9e9e" target="_blank">
 
   ```
   0xEbCf8d029eAbd83542682CC02696d82df03766D8
   ```
 
-  ![](https://komarev.com/ghpvc/?username=josantonius&style=flat-square&color=21262d&label=VIEWS)
+  ![](https://komarev.com/ghpvc/?username=josantonius&style=flat-square&color=727272&label=VIEWS)
 </details>
 
 ----
 
 <div align="center">
-  <a href="https://discord.gg/BvEk3PAy" target="_blank"><img src="https://img.shields.io/badge/-Discord-21262d?style=for-the-badge&logo=discsord&logoColor=c9d1d9" target="_blank"></a>
- <a href="https://t.me/Josantonius" target="_blank"><img src="https://img.shields.io/badge/-Telegram-21262d?style=for-the-badge&logo=telesgram&logoColor=c9d1d9" target="_blank"></a>
-  <a href = "https://github.com/josantonius"><img src="https://img.shields.io/badge/-Twitter-21262d?style=for-the-badge&logo=xxx&logoColor=c9d1d9" target="_blank"></a>
-  <a href="https://github.com/josantonius" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-21262d?style=for-the-badge&logo=xxx&logoColor=c9d1d9" target="_blank"></a><br/>
+  <a href="https://discord.gg/BvEk3PAy" target="_blank"><img src="https://img.shields.io/badge/-Discord-727272?style=for-the-badge&logo=discsord&logoColor=9e9e9e" target="_blank"></a>
+ <a href="https://t.me/Josantonius" target="_blank"><img src="https://img.shields.io/badge/-Telegram-727272?style=for-the-badge&logo=telesgram&logoColor=9e9e9e" target="_blank"></a>
+  <a href = "https://github.com/josantonius"><img src="https://img.shields.io/badge/-Twitter-727272?style=for-the-badge&logo=xxx&logoColor=9e9e9e" target="_blank"></a>
+  <a href="https://github.com/josantonius" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-727272?style=for-the-badge&logo=xxx&logoColor=9e9e9e" target="_blank"></a><br/>
 
 ###### Last edited on: 12/10/2022
 
