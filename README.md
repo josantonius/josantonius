@@ -4,7 +4,7 @@
 
 I'm Jose, fullstack developer. Back-end by passion and front-end by obligation 😄
 
-#### A little about me
+A little about me:
 
 ```javascript
 learning (
