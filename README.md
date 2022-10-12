@@ -126,6 +126,6 @@ apis (
   <a href = "https://github.com/josantonius"><img src="https://img.shields.io/badge/-Twitter-21262d?style=for-the-badge&logo=xxx&logoColor=24292f" target="_blank"></a>
   <a href="https://github.com/josantonius" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-21262d?style=for-the-badge&logo=xxx&logoColor=24292f" target="_blank"></a><br/>
 
-###### Last edited on: 12/10/2022
+<sup>Last edited on: 12/10/2022</sup>
 
 </div>
