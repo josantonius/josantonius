@@ -77,10 +77,10 @@ apis (
   <a href="https://github.com/josantonius/php-error-handler">
     <img width="412.5" src="https://github-readme-stats.vercel.app/api/pin?username=josantonius&repo=php-error-handler&theme=tokyonight&hide_border=true">
   </a>
-  <a href="https://github.com/josantonius/php-http-status-code">
+  <a href="https://github.com/josantonius/php-asset">
     <img width="412.5" src="https://github-readme-stats.vercel.app/api/pin?username=josantonius&repo=php-asset&theme=tokyonight&hide_border=true">
   </a>
-  <a href="https://github.com/josantonius/">
+  <a href="https://github.com/josantonius/php-http-status-code">
     <img width="412.5" src="https://github-readme-stats.vercel.app/api/pin?username=josantonius&repo=php-http-status-code&theme=tokyonight&hide_border=true">
   </a>
   <a href="https://github.com/josantonius/php-json">
