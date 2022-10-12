@@ -2,7 +2,7 @@
 
 ## Hi there 👋
 
-I'm Jose, fullstack developer. Back-end by passion and front-end by obligation :grin:
+I'm Jose, fullstack developer. Back-end by passion and front-end by obligation 😄
 
 #### A little about me
 
