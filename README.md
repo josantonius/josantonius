@@ -2,9 +2,9 @@
 
 ## Hi there 👋
 
-I'm Jose, fullstack developer (back-end by passion and front-end by obligation 😄). As a fullstack developer, I'm responsible for full lifecycle development of software; initial requirements gathering, architecture, design, coding, testing, documentation, implementation... merging business and user needs into quality solutions.
+I'm Jose, fullstack developer. Back-end by passion and front-end by obligation 😄
 
-#### A little more about me
+#### A little about me:
 
 ```javascript
 learning (
