@@ -57,7 +57,7 @@ apis (
   </a>
 </details>
 
-<details>
+<details name="sponsor">
   <summary>Active Repositories</summary><br/>
   <a href="https://github.com/josantonius/php-session">
     <img width="412.5" src="https://github-readme-stats.vercel.app/api/pin?username=josantonius&repo=php-session&theme=tokyonight&hide_border=true">
@@ -92,7 +92,7 @@ apis (
   <a href="https://github.com/josantonius/php-exception-handler">
     <img width="412.5" src="https://github-readme-stats.vercel.app/api/pin?username=josantonius&repo=php-exception-handler&theme=tokyonight&hide_border=true">
   </a>
-  <a name="sponsor" href="https://github.com/josantonius/php-minecraft-server-player-stat">
+  <a href="https://github.com/josantonius/php-minecraft-server-player-stat">
     <img width="412.5" src="https://github-readme-stats.vercel.app/api/pin?username=josantonius&repo=php-minecraft-server-player-stat&theme=tokyonight&hide_border=true">
   </a>
 </details>
