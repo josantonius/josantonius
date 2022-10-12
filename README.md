@@ -42,7 +42,7 @@ apis (
 )
 ```
 
-<details>
+<details name="sponsor">
   <summary>Github Stats</summary><br/>
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img width="412.5" src="https://github-readme-stats.vercel.app/api?username=josantonius&theme=tokyonight&hide_border=true&include_all_commits=true&show_icons=false&count_private=true">
@@ -57,7 +57,7 @@ apis (
   </a>
 </details>
 
-<details name="sponsor">
+<details>
   <summary>Active Repositories</summary><br/>
   <a href="https://github.com/josantonius/php-session">
     <img width="412.5" src="https://github-readme-stats.vercel.app/api/pin?username=josantonius&repo=php-session&theme=tokyonight&hide_border=true">
