@@ -97,8 +97,8 @@ apis (
   </a>
 </details>
 
-<details>
-  <summary name="sponsor">Sponsorships and Donations</summary><br/>
+<details name="sponsor">
+  <summary>Sponsorships and Donations</summary><br/>
   <a href = "https://paypal.me/Josantonius"><img src="https://img.shields.io/badge/-Paypal-21262d?style=for-the-badge&logo=xxx&logoColor=c9d1d9" target="_blank"></a>
   <a href = "https://www.buymeacoffee.com/josantonius"><img src="https://img.shields.io/badge/-Buy_me_a_coffee-21262d?style=for-the-badge&logo=xxx&logoColor=c9d1d9" target="_blank"></a>
   <a href="https://github.com/sponsors/josantonius" target="_blank"><img src="https://img.shields.io/badge/-GitHub Sponsor-21262d?style=for-the-badge&logo=xxx&logoColor=c9d1d9" target="_blank"></a><br/><br/>
@@ -120,7 +120,6 @@ apis (
 
 ----
 
-<div name="contact">
 <div align="center" name="contact">
   <a href="https://discord.gg/BvEk3PAy" target="_blank"><img src="https://img.shields.io/badge/-Discord-21262d?style=for-the-badge&logo=discsord&logoColor=c9d1d9" target="_blank"></a>
  <a href="https://t.me/Josantonius" target="_blank"><img src="https://img.shields.io/badge/-Telegram-21262d?style=for-the-badge&logo=telesgram&logoColor=c9d1d9" target="_blank"></a>
