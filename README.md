@@ -92,12 +92,12 @@ apis (
   <a href="https://github.com/josantonius/php-exception-handler">
     <img width="412.5" src="https://github-readme-stats.vercel.app/api/pin?username=josantonius&repo=php-exception-handler&theme=tokyonight&hide_border=true">
   </a>
-  <a href="https://github.com/josantonius/php-minecraft-server-player-stat">
+  <a name="sponsor" href="https://github.com/josantonius/php-minecraft-server-player-stat">
     <img width="412.5" src="https://github-readme-stats.vercel.app/api/pin?username=josantonius&repo=php-minecraft-server-player-stat&theme=tokyonight&hide_border=true">
   </a>
 </details>
 
-<details name="sponsor">
+<details name="contact">
   <summary>Sponsorships and Donations</summary><br/>
   <a href = "https://paypal.me/Josantonius"><img src="https://img.shields.io/badge/-Paypal-21262d?style=for-the-badge&logo=xxx&logoColor=c9d1d9" target="_blank"></a>
   <a href = "https://www.buymeacoffee.com/josantonius"><img src="https://img.shields.io/badge/-Buy_me_a_coffee-21262d?style=for-the-badge&logo=xxx&logoColor=c9d1d9" target="_blank"></a>
@@ -120,7 +120,7 @@ apis (
 
 ----
 
-<div align="center" name="contact">
+<div align="center">
   <a href="https://discord.gg/BvEk3PAy" target="_blank"><img src="https://img.shields.io/badge/-Discord-21262d?style=for-the-badge&logo=discsord&logoColor=c9d1d9" target="_blank"></a>
  <a href="https://t.me/Josantonius" target="_blank"><img src="https://img.shields.io/badge/-Telegram-21262d?style=for-the-badge&logo=telesgram&logoColor=c9d1d9" target="_blank"></a>
   <a href = "https://github.com/josantonius"><img src="https://img.shields.io/badge/-Twitter-21262d?style=for-the-badge&logo=xxx&logoColor=c9d1d9" target="_blank"></a>
