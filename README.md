@@ -2,9 +2,7 @@
 
 ![Josantonius](profile-cover.png)
 
-### Hi there 👋
-
-[A little about me](https://github.com/sponsors/josantonius):
+## Hi there!
 
 ```javascript
 learning (
