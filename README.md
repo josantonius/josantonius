@@ -123,8 +123,8 @@ apis (
 <div align="center">
   <a href="https://discord.gg/BvEk3PAy" target="_blank"><img src="https://img.shields.io/badge/-Discord-21262d?style=for-the-badge&logo=discsord&logoColor=24292f" target="_blank"></a>
  <a href="https://t.me/Josantonius" target="_blank"><img src="https://img.shields.io/badge/-Telegram-21262d?style=for-the-badge&logo=telesgram&logoColor=24292f" target="_blank"></a>
-  <a href = "https://github.com/josantonius"><img src="https://img.shields.io/badge/-Twitter-21262d?style=for-the-badge&logo=xxx&logoColor=24292f" target="_blank"></a>
-  <a href="https://github.com/josantonius" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-21262d?style=for-the-badge&logo=xxx&logoColor=24292f" target="_blank"></a><br/>
+  <a href = "https://twitter.com/josantonius"><img src="https://img.shields.io/badge/-Twitter-21262d?style=for-the-badge&logo=xxx&logoColor=24292f" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/josantonius" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-21262d?style=for-the-badge&logo=xxx&logoColor=24292f" target="_blank"></a><br/>
 
 ###### Last edited on: 12/10/2022
 
