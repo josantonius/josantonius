@@ -1,6 +1,6 @@
 <!-- Feel free to fork or copy me profile README, I don't mind! -->
 
-![Josantonius](cover.png)
+![Josantonius](profile-cover.png)
 
 ## Hi there 👋
 
