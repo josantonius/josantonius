@@ -1,8 +1,8 @@
 <!-- Feel free to fork or copy me profile README, I don't mind! -->
 
-## Hi there 👋
+![Josantonius](cover.png)
 
-I'm Jose, fullstack developer. Back-end by passion and front-end by obligation 😄
+## Hi there 👋
 
 A little about me:
 
