@@ -2,15 +2,17 @@
 
 ![Josantonius](profile-cover.png)
 
-## Hi there!
+## Hi there 👋
+
+[A little about me](https://github.com/sponsors/josantonius):
 
 ```javascript
 learning (
-  'data analytics',
-  'project management',
-  'user experience design',
-  'information technology support',
-  'information technology automation',
+  'openai',
+  'chatgpt',
+  'prompt engineering',
+  'large language models',
+  'artificial intelligence',
 )
 
 looking (
@@ -19,8 +21,8 @@ looking (
 )
 
 code (
-  php, css, html, perl, javascript, shell,
-  lua, sql, json, sass, typescript, python,
+  php, css, html, perl, kotlin, javascript,
+  lua, sql, json, sass, python, typescript,
 )
 
 technologies (
@@ -29,13 +31,13 @@ technologies (
   vue, jest, linux, neovim, nodejs, symfony,
 
   chartjs, tailwind, wordpress, prestashop,
-  postcss, composer, photoshop, ilustrator,
+  chatgpt, composer, minecraft, ilustrator,
   windows, rapidapi, bootstrap, phpmyadmin,
 )
 
 apis (
   google, paypal, twitter, facebook,
-  twitch, kucoin, binance, instagram,
+  twitch, bukkit, openapi, instagram,
   chorme, github, discord, minecraft,
 )
 ```
@@ -90,8 +92,26 @@ apis (
   <a href="https://github.com/josantonius/php-exception-handler">
     <img width="412.5" src="https://github-readme-stats.vercel.app/api/pin?username=josantonius&repo=php-exception-handler&theme=tokyonight&hide_border=true">
   </a>
-  <a href="https://github.com/josantonius/php-minecraft-server-player-stat">
-    <img width="412.5" src="https://github-readme-stats.vercel.app/api/pin?username=josantonius&repo=php-minecraft-server-player-stat&theme=tokyonight&hide_border=true">
+  <a href="https://github.com/josantonius/minecraft-whitelist">
+    <img width="412.5" src="https://github-readme-stats.vercel.app/api/pin?username=josantonius&repo=minecraft-whitelist&theme=tokyonight&hide_border=true">
+  </a>
+  <a href="https://github.com/josantonius/minecraft-purge">
+    <img width="412.5" src="https://github-readme-stats.vercel.app/api/pin?username=josantonius&repo=minecraft-purge&theme=tokyonight&hide_border=true">
+  </a>
+  <a href="https://github.com/josantonius/minecraft-command">
+    <img width="412.5" src="https://github-readme-stats.vercel.app/api/pin?username=josantonius&repo=minecraft-command&theme=tokyonight&hide_border=true">
+  </a>
+  <a href="https://github.com/josantonius/minecraft-pvp">
+    <img width="412.5" src="https://github-readme-stats.vercel.app/api/pin?username=josantonius&repo=minecraft-pvp&theme=tokyonight&hide_border=true">
+  </a>
+  <a href="https://github.com/josantonius/minecraft-ray">
+    <img width="412.5" src="https://github-readme-stats.vercel.app/api/pin?username=josantonius&repo=minecraft-ray&theme=tokyonight&hide_border=true">
+  </a>
+  <a href="https://github.com/josantonius/minecraft-unduping">
+    <img width="412.5" src="https://github-readme-stats.vercel.app/api/pin?username=josantonius&repo=minecraft-unduping&theme=tokyonight&hide_border=true">
+  </a>
+  <a href="https://github.com/josantonius/minecraft-messaging">
+    <img width="412.5" src="https://github-readme-stats.vercel.app/api/pin?username=josantonius&repo=minecraft-messaging&theme=tokyonight&hide_border=true">
   </a>
 </details>
 
@@ -122,8 +142,7 @@ apis (
   <a href="https://discord.gg/BvEk3PAy" target="_blank"><img src="https://img.shields.io/badge/-Discord-21262d?style=for-the-badge&logo=discsord&logoColor=24292f" target="_blank"></a>
  <a href="https://t.me/Josantonius" target="_blank"><img src="https://img.shields.io/badge/-Telegram-21262d?style=for-the-badge&logo=telesgram&logoColor=24292f" target="_blank"></a>
   <a href = "https://twitter.com/josantonius"><img src="https://img.shields.io/badge/-Twitter-21262d?style=for-the-badge&logo=xxx&logoColor=24292f" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/josantonius" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-21262d?style=for-the-badge&logo=xxx&logoColor=24292f" target="_blank"></a><br/>
 
-###### Last edited on: 12/10/2022
+###### Last edited on: 16/05/2023
 
 </div>
